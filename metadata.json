@@ -1,0 +1,6 @@
+{
+  "name": "호텔사원 진상 대응 매뉴얼 훈련",
+  "description": "5성급 호텔 매뉴얼을 학습한 AI 고객과 1인칭 시점으로 마주보고 대화하며 진상·컴플레인 응대 역량을 키우는 사내 교육 시뮬레이션 및 성장 리포트 대시보드",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
